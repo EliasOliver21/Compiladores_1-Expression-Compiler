@@ -1,0 +1,4 @@
+# Testa o agrupamento por parênteses para forçar a ordem de avaliação.
+# Resultado esperado: 30  (porque 10 + 5 = 15, e então 15 * 2 = 30)
+
+(10 + 5) * 2

@@ -1,0 +1,5 @@
+# Testa uma expressão complexa com múltiplos operadores e parênteses aninhados.
+# Avaliação: (3 + 2) = 5  ->  (2 * 5) = 10  ->  100 / 10 = 10.0  ->  10.0 - 1 = 9.0
+# Resultado esperado: 9.0
+
+100 / (2 * (3 + 2)) - 1

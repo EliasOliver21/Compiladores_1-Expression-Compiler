@@ -1,0 +1,4 @@
+# Uma operação aritmética simples.
+# Resultado esperado: 15
+
+10 + 5
